@@ -1,0 +1,4 @@
+psutil>=5.9.0
+GPUtil>=1.4.0
+# Solo Windows, opcional, para leer temperatura de CPU vía OpenHardwareMonitor:
+# wmi>=1.5.1
